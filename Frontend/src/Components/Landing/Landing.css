@@ -1,0 +1,25 @@
+.loginBody {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	gap: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.landingH1 {
+	text-align: center;
+	font-size: 2.5em;
+}
+
+.landingH2 {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.titleImg {
+	display: block;
+	width: 8em;
+	height: 8em;
+	margin-left: auto;
+	margin-right: auto;
+}

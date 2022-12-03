@@ -1,0 +1,13 @@
+.profileGrid {
+    display: grid;
+	grid-template-columns: 40% 40%;
+	gap: 5%;
+	margin-top: 3em;
+	margin-left: 5%;
+	margin-right: 5%;
+	justify-content: center;
+}
+
+.profileTitle {
+	text-align: center;
+}

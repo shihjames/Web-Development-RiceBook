@@ -1,0 +1,17 @@
+.curData {
+	display: grid;
+	grid-template-columns: 40% 40%;
+	gap: 5%;
+	margin-top: 3em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.dataRow {
+	letter-spacing: 0.1em;
+	text-decoration: underline;
+	text-decoration-color: rgb(173, 195, 213);
+	font-weight: bold;
+}

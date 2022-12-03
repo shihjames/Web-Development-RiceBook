@@ -1,0 +1,36 @@
+.commentGrid {
+	display: grid;
+	grid-template-columns: 10% 70% 10%;
+	gap: 5%;
+	border-radius: 12px;
+	padding: 0.5em;
+	background-color: #e7e8d1;
+	box-shadow: 0 1px 8px rgba(3, 58, 72, 0.25);
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.comment {
+	background-color: #e7e8d1;
+	margin-bottom: 1em;
+}
+
+.commentAvatar {
+	border-radius: 100%;
+	width: 30px;
+	height: 30px;
+}
+
+.commentText {
+	text-decoration-color: rgb(173, 195, 213);
+	font-weight: bold;
+	word-wrap: break-word
+}
+
+.commentInput {
+	display: inline;
+}
+
+.editComment {
+	margin-bottom: 1em;
+}
